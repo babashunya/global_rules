@@ -15,3 +15,5 @@ Always respond in 日本語
 # frozen_string_literal: true
 ```
 を追加してください
+
+2. bi と入力している場合、`binding.break`の補完をしてください。現在`binding.pry`は使用していません。
